@@ -1,6 +1,10 @@
 ## Hi there 👋
 📊 My GitHub Stats
 <div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=Sujit-Khandave73&show_icons=true&theme=dark&hide_border=true&count_private=true" /> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujit-Khandave73&layout=compact&theme=dark&hide_border=true&langs_count=8" /> </div> <br> <div align="center"> <img src="https://streak-stats.demolab.com?user=Sujit-Khandave73&theme=dark&hide_border=true" /> </div>
+
+
+📈 Contribution Activity
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sujit-Khandave73&theme=github-compact&hide_border=true" /> </div>
 <!--
 **Sujit-Khandave73/Sujit-Khandave73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
