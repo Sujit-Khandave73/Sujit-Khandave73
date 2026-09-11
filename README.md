@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Sairaj 👋
+# Hey, I'm Sujit 👋
 
 ### I build intelligent systems, scalable data pipelines, and applications that solve real-world problems.
 
